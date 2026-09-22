@@ -62,3 +62,13 @@ Some possible improvements for this project include:
 - 🌓 Add dark mode
 
 ---
+
+## 👨‍💻 Author
+
+Abdul Hannan | Frontend Developer
+
+Built with HTML, CSS & JavaScript.
+
+⭐ If you like this project, consider giving the repository a star!
+
+---
